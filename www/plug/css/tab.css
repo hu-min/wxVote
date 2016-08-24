@@ -1,0 +1,274 @@
+/*
+ * 活动主体样式
+ */
+
+.tab-box-user ul {
+	content: " ";
+    clear: both;
+    display: block;
+	/*padding: 0;
+	margin: 0;*/
+	list-style: none;
+	font-family: arial,\5b8b\4f53,Microsoft YaHei;
+}
+
+.tab-box-user {
+	padding: 2em 0;
+	position: relative;
+    width: 92%;
+    margin: 0 auto;
+}
+
+/*列表左右浮动*/
+
+.tab-box-left {
+	width: 48%;
+	display: inline-block;
+	float: left;
+	/*position: absolute;
+	left: 0px;*/
+}
+
+.tab-box-right {
+	width: 48%;
+	display: inline-block;
+	float: right;
+	/*position: absolute;
+	right : 2em;*/
+}
+
+.tab-box-user .tab-li {
+	background-color: #ff756b;
+	margin: 0.5em;
+	width: 98%;
+	float: left;
+}
+
+.tab-box-user .tab-li-box {
+	position: relative;
+}
+
+.nomber {
+	display: block;
+	width: 2em;
+	font-size: 5em;
+	background: #ff756b;
+	position: absolute;
+	color: #fff;
+	text-align: center;
+	/*line-height: 32px;*/
+	top: 0;
+	right: 4%;
+	font-style: normal;
+}
+
+.tab-box-user .img {
+	padding: 0.6em 0.6em 0;
+	display: block;
+}
+
+.img img {
+	display: block;
+	width: 100%;
+	height: 40em;
+}
+
+.tab-box-user .clearfix {
+	width: 100%;
+	height: 6em;
+}
+
+.clearfix p {
+	width: 60%;
+	line-height: 1.3em;
+	padding-top: 0.5em;
+	font-size: 2.6em;
+	padding-left: 6%;
+	margin: 0;
+	color: white;
+	float: left;
+}
+
+.clearfix .vote {
+	display: block;
+	padding-top: 1em;
+	text-decoration: none;
+	float: right;
+	width: 30%;
+	height: 3em;
+	background: #f9493c;
+	color: #fff;
+	font-size: 3em;
+	text-align: center;
+}
+
+.tab-page {
+	clear: both;
+	display: block;
+	margin: 4em auto;
+	width: 100%;
+}
+.tab-page li{
+	min-width: 1em;
+	margin: 0.2em;
+	font-size: 1.5em;
+	display: inline-block;
+	border: 2px solid #FF756B;
+}
+.tab-page .act a{
+	color: white;
+}
+.tab-page li a{
+	font-size: 2em;
+	padding: 0 0.2em;
+}
+/*详情页样式*/
+			.tab-detail{
+				position: relative;
+				margin: 0 auto;
+				background-color: #FF756B;
+				width: 90%;
+				padding: 4em 2em;
+			}
+			.num_box{
+				height: 0;
+				padding: 0;
+				margin: 0;
+			}
+			.tab-detail .detial-img{
+				width: 99%;
+				margin: 0 auto;
+			}
+			.close{
+				display: block;
+			    position: absolute;
+			    top: -0.4em;
+			    right: -0.3em;
+			    width: 1.1em;
+			    height: 1.1em;
+			    line-height: 1.1em;
+			    /* padding: 0.5em; */
+			    text-align: center;
+			    font-size: 6em;
+			    color: #F44336;
+			    background-color: white;
+			    border-radius: 1.1em;
+			}
+			.tab-detail p span{
+				padding: 0.2em 0;
+				float: right;
+				font-size: 1.5em;
+				color: white;
+			}
+			.tab-detail .num_box .number{
+				float: left;
+			}
+			.tab-detail p{
+				padding: 1em 0;
+				text-align: left;
+				clear: both;
+				color: white;
+				font-size: 2.5em;
+			}
+			.a-but-box{
+				margin: 0 auto;
+				width: 90%;
+			}
+			.a-but-box .a-but{
+				padding: 0.5em 0;
+				margin-bottom: 0.5em;
+				text-align: center;
+				display: inline-block;
+				width: 100%;
+				font-size: 3em;
+				color: white;
+				border-radius: 0.5em;
+				background-color:#FF756B ;
+				text-decoration: none;
+			}
+			.a-but-box .vote{
+				margin: 0.5em 0;
+				background-color: #F9493C;
+			}
+			.a-but-box a:link,a:visited{
+				text-decoration: none;
+			}
+/* 底部导航栏样式*/
+.web-bottom{
+	height: 9%;
+	padding: 1em 0;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	width: 100%;
+	background-color: rgba(233,233,233,0.93);
+}
+.web-bottom li{
+	text-align: center;
+	display: inline-block;
+	width: 33%;
+}
+.web-bottom img{
+	width: 4em;
+	margin: 0 auto;
+	display: block;
+}
+.web-bottom span{
+	color: #333;
+	font-size: 2em;
+	display: block;
+}
+/*遮罩，分享页，投票页样式*/
+			#shade{
+				position: fixed;
+				top: 0px;
+				left: 0px;
+				right: 0px;
+				bottom: 0px;
+				background-color: rgba(0,0,0,0.5);
+			}
+			#toupiao{
+				border-radius: 1em;
+				position: fixed;
+				top: 30%;
+				left: 5%;
+				height: 23%;
+				width: 90%;
+				background-color: #FF756B;
+			}
+			#toupiao p{
+				width: 100%;
+			    text-align: center;
+			    font-size: 3em;
+			    color: #fff;
+			    padding: 1em;
+			}
+			#toupiao .inwx{
+				border-radius: 1em;
+				display: block;
+			    width: 60%;
+			    font-size: 3.2em;
+			    text-align: center;
+			    margin: 1em auto;
+			    color: #ff756b;
+			    background-color: white;
+			    padding: 0.2em;
+			}
+			#fenxiang{
+				position: fixed;
+				top: 0px;
+				left: 0px;
+				right: 0px;
+				bottom: 0px;
+			}
+			#fenxiang p{
+				position: absolute;
+				top: 30%;
+				left: 10%;
+				width: 80%;
+				text-align: center;
+				font-size: 4em;
+				color: white;
+				line-height: 1.5em;
+			}

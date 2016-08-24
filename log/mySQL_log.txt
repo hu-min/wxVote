@@ -1,0 +1,57 @@
+2016-07-25 05:54:21插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://wx.qlogo.cn/mmopen/fMtIobRa1MOjibU6gLoWeWqdibZekLFFUDCiaxZRvV51wAtZMVTukS6zED' at line 3
+2016-07-25 05:58:27插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://wx.qlogo.cn/mmopen/fMtIobRa1MOjibU6gLoWeWqdibZekLFFUDCiaxZRvV51wAtZMVTukS6zED' at line 3
+2016-07-25 06:00:55插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0)
+								  ON DUPLICATE KEY UPDATE nickname=往事借过, subscribe=1, sex=1,' at line 3
+2016-07-25 06:01:10插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0)
+								  ON DUPLICATE KEY UPDATE nickname=往事借过, subscribe=1, sex=1,' at line 3
+2016-07-25 06:03:17插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0)
+								  ON DUPLICATE KEY UPDATE nickname='往事借过', subscribe=1, sex=' at line 3
+2016-07-25 06:04:53插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0)
+								  ON DUPLICATE KEY UPDATE nickname='往事借过', subscribe=1, sex=' at line 3
+2016-07-25 06:14:16插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[1],[34f],[往事借过],[1],[zh_CN],[钦州],[广西],[中国],[http://wx.qlogo' at line 2
+2016-07-25 06:15:38插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[1],[34f],[往事借过],[1],[zh_CN],
+							[钦州],[广西],[中国],[http:/' at line 2
+2016-07-25 06:33:10插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[往事借过],[1],[zh_CN],
+							钦州,广西,中国,http://wx.qlogo.cn/mmop' at line 2
+2016-07-25 06:33:48插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://wx.qlogo.cn/mmopen/fMtIobRa1MOjibU6gLoWeWqdibZekLFFUDCiaxZRvV51wAtZMVTukS6zED' at line 3
+2016-07-25 06:34:36插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0)' at line 3
+2016-07-25 06:35:39插入数据错误：Unknown column '34f' in 'field list'
+2016-07-25 06:37:05插入数据错误：Unknown column '往事借过' in 'field list'
+2016-07-25 06:37:25插入数据错误：Unknown column 'zh_CN' in 'field list'
+2016-07-25 06:44:04插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''subscribe'='1','unionid'='34f','nickname'='往事借过','sex'='1','language'='' at line 4
+2016-07-25 06:44:41插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''unionid'='34f','nickname'='往事借过','sex'='1','language'='zh_CN',
+							' at line 4
+2016-07-25 06:45:07插入数据错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''nickname'='往事借过','sex'='1','language'='zh_CN',
+							'city'='钦州',' at line 4
+2016-07-25 07:54:43插入投票数据错误：PATH:'/WWW/PLUG/join.PHP'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'describe, img_url, time)  
+			values( '34f', '彭亮', '', 'http://15385md623.5' at line 1
+2016-07-25 07:57:11插入投票数据错误：PATH:'/WWW/PLUG/join.PHP'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'describe, img_url, time)  
+			values( '34f', '彭亮', '我是彭亮', 'http://' at line 1
+2016-07-25 07:58:52插入投票数据错误：PATH:'/WWW/PLUG/join.PHP'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''describe', img_url, time)  
+			values( '34f', '彭亮', '我是彭亮', 'http:' at line 1
+2016-07-25 08:06:27插入投票数据错误：PATH:'/WWW/PLUG/join.PHP'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''describe', img_url, time)  
+			values( '34f', '彭亮', '我是彭亮', 'http:' at line 1
+2016-07-25 08:07:12插入投票数据错误：PATH:'/WWW/PLUG/join.PHP'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'describe,img_url,time)  
+			values( '34f','彭亮','我是彭亮','http://15385' at line 1
+2016-07-25 08:09:34插入投票数据错误：PATH:'/WWW/PLUG/join.PHP'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''unionid','name','describe','img_url','time')  
+			values('34f','彭亮','我' at line 1
+2016-07-25 08:27:13插入投票数据错误：PATH:'/WWW/PLUG/join.PHP'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''unionid','name','describe','img_url','time')  
+			values('34f','彭亮','我' at line 1
+2016-07-25 08:41:12插入投票数据错误：PATH:'/WWW/PLUG/join.PHP'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''wx_act_user'('unionid','name','describe','img_url','time')  
+			values('34f','' at line 1
+2016-07-25 08:42:04插入投票数据错误：PATH:'/WWW/PLUG/join.PHP'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''wx_act_user'('unionid','name','describe','img_url','time')  
+			VALUES('34f','' at line 1
+2016-07-25 08:43:15插入投票数据错误：PATH:'/WWW/PLUG/join.PHP'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''unionid','name','describe','img_url','time')  
+			VALUES('34f','彭亮','我' at line 1
+2016-07-25 08:50:17插入投票数据错误：PATH:'/WWW/PLUG/join.PHP'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'describe,img_url,`time`)  
+			VALUES('34f','彭亮','我是彭亮','http://1538' at line 1
+2016-07-25 09:00:10插入投票数据错误：PATH:'/WWW/PLUG/VOTE.PHP'Unknown column 'poll_time' in 'field list'
+2016-07-25 09:10:09插入投票数据错误：PATH:'/WWW/PLUG/VOTE.PHP',第90行！Unknown column 'poll_time' in 'field list'
+2016-07-25 09:37:48插入投票数据错误：PATH:'/WWW/PLUG/VOTE.PHP',第110行！You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' CURDATE(), 1, )' at line 1
+2016-07-25 09:43:12插入投票数据错误：PATH:'/WWW/PLUG/VOTE.PHP',第110行！Unknown column '32f' in 'field list'
+2016-07-25 09:48:15插入投票数据错误：PATH:'/WWW/PLUG/VOTE.PHP',第110行！Unknown column '34f' in 'field list'
+2016-07-25 09:52:44插入投票数据错误：PATH:'/WWW/PLUG/VOTE.PHP',第110行！Unknown column '34f' in 'field list'
+2016-07-25 09:55:49插入投票数据错误：PATH:'/WWW/PLUG/VOTE.PHP',第110行！Unknown column '钦州' in 'field list'
+2016-08-05 09:42:03插入投票数据错误：PATH:'/WWW/PLUG/join.PHP'Cannot add or update a child row: a foreign key constraint fails (`weixin`.`wx_act_user`, CONSTRAINT `wx_act_user_ibfk_1` FOREIGN KEY (`unionid`) REFERENCES `wx_user_list` (`unionid`))
+2016-08-05 09:45:07插入投票数据错误：PATH:'/WWW/PLUG/join.PHP'Cannot add or update a child row: a foreign key constraint fails (`weixin`.`wx_act_user`, CONSTRAINT `wx_act_user_ibfk_1` FOREIGN KEY (`unionid`) REFERENCES `wx_user_list` (`unionid`))
+2016-08-07 01:36:22插入投票数据错误：PATH:'/WWW/PLUG/VOTE.PHP',第110行！You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '钦州')' at line 1
